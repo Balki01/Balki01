@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Balki01
-- 👀 I’m interested in ...transforming world
+- 👋 Hi, I’m @Balakrishnan Sambath
+- 👀 I’m interested in ...transforming world with my embedded linux expertise
 - 🌱 I’m currently learning ...what Im capable of
 
 <!---
